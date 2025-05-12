@@ -12,5 +12,5 @@ Built as a small project to put my Python skills into practice.
 ```bash
 git clone https://github.com/yourusername/expense-tracker
 cd expense-tracker
-
-MIT License | ©
+```
+MIT License | © Denver Chua
