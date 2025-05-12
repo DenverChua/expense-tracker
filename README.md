@@ -10,7 +10,7 @@ Built as a small project to put my Python skills into practice.
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/expense-tracker
+git clone https://github.com/DenverChua/expense-tracker
 cd expense-tracker
 ```
 MIT License | © Denver Chua
